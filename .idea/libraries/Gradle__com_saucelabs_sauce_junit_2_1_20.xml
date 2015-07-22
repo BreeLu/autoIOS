@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.saucelabs:sauce_junit:2.1.20">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.saucelabs/sauce_junit/2.1.20/e595d3034f734f92914058ffe8be1fe7f67ee03/sauce_junit-2.1.20.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.saucelabs/sauce_junit/2.1.20/82b8cafeb4d3c46f0b75dc19b5a4593470016d97/sauce_junit-2.1.20-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

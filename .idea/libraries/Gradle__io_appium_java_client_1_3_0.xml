@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.appium:java-client:1.3.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.appium/java-client/1.3.0/ffcd632b065fa6720987be128e7e385bc9f3fdc7/java-client-1.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.appium/java-client/1.3.0/d976dc565a14e23ea9a4f74df7af16486e410ce7/java-client-1.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
