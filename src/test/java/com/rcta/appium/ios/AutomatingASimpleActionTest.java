@@ -1,6 +1,7 @@
 package com.rcta.appium.ios;
 
 import com.rcta.appium.ios.util.AppiumTest;
+import org.junit.Ignore;
 import org.openqa.selenium.WebElement;
 
 import java.util.ArrayList;
@@ -11,6 +12,7 @@ import static com.rcta.appium.ios.util.Helpers.*;
 /**
  * Created by bree.lu on 7/22/15.
  */
+@Ignore
 public class AutomatingASimpleActionTest extends AppiumTest {
 
     @org.junit.Test
